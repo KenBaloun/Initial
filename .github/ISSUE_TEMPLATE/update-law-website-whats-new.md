@@ -2,7 +2,7 @@
 name: Update LAW Website Whats New
 about: This template will provide the required format to update the Whats new page
 title: ''
-labels: ''
+labels: enhancement
 assignees: ''
 
 ---
