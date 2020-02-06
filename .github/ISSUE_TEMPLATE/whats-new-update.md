@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-**Placement Location (1-4):**
-**Title:**
-**URL:**
-**Description:**
-**Paste Image Below (535Wx320H):**
+Placement Location (1-4):
+Title:
+URL:
+Description:
+Paste Image Below (535Wx320H):
